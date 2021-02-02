@@ -6,7 +6,11 @@ namespace vgd21_bootcamp_JuranichT
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+
+
+            Storing.initialize();
+
+
             Console.WriteLine("Press Any Key To Exit");
             Console.ReadKey();
 

@@ -12,7 +12,12 @@ namespace vgd21_bootcamp_JuranichT
             //Storing.DemoVariables();
             //Storing.ReadingInput();
             //Storing.UsingArrays();
-            Storing.ConstantsEnumsStructs();
+            //Storing.ConstantsEnumsStructs();
+
+            //Operations.Arithmetic();
+            //Operations.Comparison();
+            //Operations.Logic();
+            Operations.Ternary();
 
             Console.WriteLine("Press Any Key To Exit");
             Console.ReadKey();

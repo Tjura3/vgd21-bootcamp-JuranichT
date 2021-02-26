@@ -17,7 +17,10 @@ namespace vgd21_bootcamp_JuranichT
             //Operations.Arithmetic();
             //Operations.Comparison();
             //Operations.Logic();
-            Operations.Ternary();
+            //Operations.Ternary();
+
+            MadLib.Execute();
+
 
             Console.WriteLine("Press Any Key To Exit");
             Console.ReadKey();

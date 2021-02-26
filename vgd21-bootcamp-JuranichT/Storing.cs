@@ -39,8 +39,8 @@ namespace vgd21_bootcamp_JuranichT
             string Weapon = "Mighty greatsword";
             string Armor = "Titan scale plating";
 
-            Console.WriteLine("Name:\t\t\t" + Name);
-            Console.WriteLine("Gender:\t\t\t{0}", gender);
+            Console.WriteLine("Name:\t\t\t" + Name);                 //   \t = tab
+            Console.WriteLine("Gender:\t\t\t{0}", gender);         //                \n = new console line
             Console.WriteLine("Current health:\t\t{0}", health);
             Console.WriteLine("Are you dead?\t\t{0}", living);
             Console.WriteLine("Current equips:\n\tW:{0}\n\tA:{1}", Weapon, Armor);

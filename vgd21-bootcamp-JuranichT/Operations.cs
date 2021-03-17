@@ -18,7 +18,7 @@ namespace vgd21_bootcamp_JuranichT
             b--; // specifically minus one
             c = a + b; //add
             c = a - b; //sub
-            c = a * b; //times
+            c = a * b; //multi
             c = a / b;  //divi
             c = a % b; //modulo operator     a/b and return the remainder:  (10/5) = 2 R 0    (Ans = 0)
             c = b % a; //                    b/a and return the remainder:  (5/10) = 0 R 5    (Ans = 5)

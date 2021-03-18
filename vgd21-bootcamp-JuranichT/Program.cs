@@ -26,8 +26,12 @@ namespace vgd21_bootcamp_JuranichT
             //Statement.Forloop();
             // Statement.WhileLoops();
             //Statement.LoopingArrays();
-            Statement.ForEachIterations();
+            //Statement.ForEachIterations();
 
+
+
+            ErrotTrapping.DontCatchError();
+            //ErrotTrapping.CatchRuntimeError();
 
 
             Console.WriteLine("Press Any Key To Exit");

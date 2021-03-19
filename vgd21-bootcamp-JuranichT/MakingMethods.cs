@@ -41,9 +41,9 @@ namespace vgd21_bootcamp_JuranichT
         }
 
         //Overloading: same method name, but with diffrent arguments, diffren return types
-        public static float Area(float radious)
+        public static float Area(float radius)
         {
-            return (3.14159f * radious);
+            return (3.14159f * radius);
         }
 
         public static float Area(float width, float height)

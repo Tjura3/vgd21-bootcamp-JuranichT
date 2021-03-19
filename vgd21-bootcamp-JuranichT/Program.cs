@@ -28,9 +28,9 @@ namespace vgd21_bootcamp_JuranichT
             //Statement.LoopingArrays();
             //Statement.ForEachIterations();
 
+            MiniDC.PlayGame();
 
-
-            ErrotTrapping.DontCatchError();
+            //ErrotTrapping.DontCatchError();
             //ErrotTrapping.CatchRuntimeError();
 
 

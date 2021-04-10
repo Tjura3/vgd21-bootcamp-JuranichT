@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30907.101
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "vgd21-bootcamp-JuranichT", "vgd21-bootcamp-JuranichT\vgd21-bootcamp-JuranichT.csproj", "{985EAC0F-D9D3-44E1-AF9A-1EE6EC53C66E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "vgd21-bootcamp-JuranichT", "vgd21-bootcamp-JuranichT\vgd21-bootcamp-JuranichT.csproj", "{985EAC0F-D9D3-44E1-AF9A-1EE6EC53C66E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sandbox", "Sandbox\Sandbox.csproj", "{86515CBA-C194-4E6C-AE26-D043BD62C6B8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{985EAC0F-D9D3-44E1-AF9A-1EE6EC53C66E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{985EAC0F-D9D3-44E1-AF9A-1EE6EC53C66E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{985EAC0F-D9D3-44E1-AF9A-1EE6EC53C66E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{86515CBA-C194-4E6C-AE26-D043BD62C6B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{86515CBA-C194-4E6C-AE26-D043BD62C6B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{86515CBA-C194-4E6C-AE26-D043BD62C6B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{86515CBA-C194-4E6C-AE26-D043BD62C6B8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

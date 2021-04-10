@@ -39,6 +39,16 @@ namespace vgd21_bootcamp_JuranichT
             //Console.WriteLine(MakingMethods.Area(3f, 4f));
             //MakingMethods.TestThem();
 
+            //StringWork.StringFeatures();
+            //StringWork.ManipulatingStrings();
+            //StringWork.JoiningAndComparing();
+            //StringWork.FindingSubstrings();
+            //StringWork.FormattingStrings();
+            //StringWork.DateStrings();
+            StringWork.HomeWorkChallenge();
+
+
+
             //ErrotTrapping.DontCatchError();
             //ErrotTrapping.CatchRuntimeError();
 
@@ -46,7 +56,7 @@ namespace vgd21_bootcamp_JuranichT
 
 
 
-            FileWork.Commander();
+            //FileWork.Commander();
             
 
 
